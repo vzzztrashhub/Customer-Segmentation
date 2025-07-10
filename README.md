@@ -22,8 +22,6 @@ The dataset contains customer demographic and purchasing data such as:
 - Marital status
 - Campaign responses
 
-Dataset Source: [`marketing_campaign.csv`](https://github.com/entbappy/Branching-tutorial/blob/master/marketing_campaign.zip)
-
 ## Models Used
 
 - **K-Means Clustering** – for customer segmentation  
